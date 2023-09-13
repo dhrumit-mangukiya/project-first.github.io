@@ -1,0 +1,133 @@
+body{
+  overflow-x: hidden;
+ 
+}
+table{
+  border: 1px solid gray;
+}
+.mail{
+  padding: 10px 30px;
+  width: 100%;
+  border-radius: 4px;
+}
+.search{
+  width: 100%;
+}
+th{
+  background-color: rgba(179, 178, 178, 0.358);
+  text-align: left;
+  padding-left: 30px;
+}
+th span{
+  padding-left: 20px;
+}
+table,td{
+   border-bottom: 1px solid rgba(0, 0, 0, 0.522);
+    border-collapse: collapse;
+    font-family: sans-serif;
+  }
+ 
+  li{
+    list-style-type:none ;
+  }
+ .side{
+    display: flex;
+    margin: 0px;
+ }
+ table{
+  width: 100%;
+ }
+ .imge{
+    height: 50px;
+    width: 45px;
+ }
+ 
+ .about p{
+  margin: 0px;
+  display: flex;
+  align-items: center;
+ }
+ .about span{
+  padding-left: 20px;
+ }
+ .about p img{
+  height: 50px;
+  width: 40px;
+  border-radius: 0%;
+ }
+.imgs{
+  height: 50px;
+  width: 50px;
+  background-color: rgba(127, 255, 212, 0.365);
+  border-radius: 25px;
+}
+img{  
+  border-radius: 25px;
+  height: 40px;
+  width: 40px;
+  padding: 5px;
+}
+.point{
+    color: green;
+}
+.fas, .fa-solid {
+    font-size:8px;
+}
+.point span{
+    padding-left: 20px;
+  }
+tr td{
+  padding-left: 30px;
+}
+.imgs span{
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 26px;
+ padding: 10px;
+}
+.table-2{
+  margin-top: 80px
+
+}
+.fa-brands{
+  padding-left: 15px;
+}
+.fa-solid{
+  font-size: 12px;
+  padding-left:12px;
+}
+.push{
+  background-color: rgba(146, 31, 13, 0.273);
+  color: rgba(243, 74, 40, 0.931);
+  padding: 6px;
+  font-weight: 600;
+  width: 90px;
+  border-radius: 6px;
+}
+.Active{
+  background-color: rgba(6, 235, 235, 0.265);
+  color: rgba(0, 0, 0, 0.353);
+  padding: 6px;
+  font-weight: 600;
+  width: 90px;
+  border-radius: 6px;
+}
+.mdi{
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.653);
+}
+.inputWithIcon {
+  position: relative;
+}
+input{
+  padding-left: 90px;
+}
+.inputWithIcon i {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  padding: 13px 8px;
+  color: #aaa;
+  transition: 0.3s;
+}

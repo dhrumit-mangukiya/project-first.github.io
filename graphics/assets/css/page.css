@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    
+}
+/* .center{
+    display: flex;
+    justify-content: center;
+} */
+img{
+    height: 60vh;
+    width: 100%;
+}
+.number{
+    right: 0px;
+}
